@@ -1,0 +1,7 @@
+transformers
+torch
+requests
+json
+re
+http.server
+
