@@ -1,0 +1,509 @@
+{
+    "https://example.com": "Example Domain Example Domain This domain is for use in illustrative examples in documents. You may use this domain in literature without prior coordination or asking for permission. More information...",
+    "cancer treatments": [
+        {
+            "title": "Dual pH/redox-responsive size-switchable polymeric nano-carrier system for tumor microenvironment DTX release.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38944817"
+        },
+        {
+            "title": "A Phase II Trial of Stereotactic Body Radiation Therapy and Androgen Deprivation for Oligometastases in Prostate Cancer (SBRT-SG 05).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38944806"
+        },
+        {
+            "title": "Environmental monitoring of current good manufacturing practices cleanroom facilities for manufacturing of cellular therapy products in an academic hospital setting.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38944797"
+        },
+        {
+            "title": "A review and statistical analysis to identify and describe relationships between CQAs and CPPs of natural killer cell expansion processes.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38944794"
+        },
+        {
+            "title": "[Frailty assessment in geriatric oncology.].",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38944778"
+        },
+        {
+            "title": "Early Postoperative Outcome Following Laparoscopic Surgeries in Rectal Malignancies.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38944723"
+        },
+        {
+            "title": "Extracellular vesicles originating from melanoma cells promote dysregulation in haematopoiesis as a component of cancer immunoediting.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38944672"
+        },
+        {
+            "title": "Pulmonary metastatic gestational choriocarcinoma following an uncomplicated term pregnancy: a case report.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38944668"
+        },
+        {
+            "title": "Fibrosis-4 index stratifies risks of hepatocellular carcinoma in patients with chronic hepatitis C.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38944614"
+        },
+        {
+            "title": "Identifying the prognostic significance of PDCD1LG2 expression in pan-cancer and its relationship with the immune microenvironment.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38944602"
+        },
+        {
+            "title": "Characteristics, trends, and management of Penile cancer in the United States: A population-based study.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38944595"
+        },
+        {
+            "title": "The role of length of oral resection margin and survival in esophageal cancer surgery after neoadjuvant therapy: A retrospective propensity score-matched study.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38944588"
+        },
+        {
+            "title": "Supporting practitioners to talk about sexual wellness and pleasure during radiotherapy for gynaecological cancer.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38944580"
+        },
+        {
+            "title": "Evaluating Danish Breast Cancer Group locoregional radiotherapy guideline adherence in clinical treatment data 2008-2016: The DBCG RT Nation study.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38944554"
+        },
+        {
+            "title": "Multi-system involvement-including purpura fulminans-as an adverse effects of immune checkpoint inhibitor therapy for clear cell renal cell carcinoma.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38944528"
+        },
+        {
+            "title": "Health Care Disparities in Endocrine Surgical Disorders.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38944509"
+        },
+        {
+            "title": "Evaluation and Surgical Management of Multiple Endocrine Neoplasias.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38944508"
+        },
+        {
+            "title": "Surgical Management and Long-Term Evaluation of Pancreatic Neuroendocrine Tumors.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38944507"
+        },
+        {
+            "title": "Management of Pheochromocytomas and Paragangliomas.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38944505"
+        },
+        {
+            "title": "Complex Primary Hyperparathyroidism: Hereditary and Recurrent Disease.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38944501"
+        }
+    ],
+    "Induced Abortion and the Increased Risk of Maternal Mortality": [
+        {
+            "title": "Maternal Cardiovascular Health Post-Dobbs.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38320493"
+        },
+        {
+            "title": "Prenatal Exposure to Air Pollution and Respiratory Distress in Term Newborns: Results from the MIREC Prospective Pregnancy Cohort.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38271058"
+        },
+        {
+            "title": "Attitudes towards induced abortion among gynecologists in Kurdistan region of Iraq.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/37974142"
+        },
+        {
+            "title": "General Principles for Counseling and Management of Triplet Pregnancies.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/37963347"
+        },
+        {
+            "title": "Factors associated with preeclampsia among pregnant women in Gojjam zones, Amhara region, Ethiopia: a case-control study.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/37706501"
+        },
+        {
+            "title": "Postpartum Infection.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/32809639"
+        },
+        {
+            "title": "Pregnancy Loss and Risk of All-Cause Mortality in Chinese Women: Findings From the China Kadoorie Biobank.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/37124162"
+        },
+        {
+            "title": "Patterns and correlates of post-abortion complications in India.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/36894914"
+        },
+        {
+            "title": "Health care providers' perceptions of using misoprostol in the treatment of incomplete abortion in Malawi.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/36461125"
+        },
+        {
+            "title": "Vaginal misoprostol versus combined intracervical foley's catheter and oxytocin infusion for second trimester pregnancy termination in women with previous caesarean sections: a randomised control trial.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/36149628"
+        },
+        {
+            "title": "Long-Term Mortality in Women With Pregnancy Loss and Modification by Race/Ethnicity.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/35136903"
+        },
+        {
+            "title": "Prevalence of neural tube defects at Debre Berhan Referral Hospital, North Shewa, Ethiopia. A hospital based retrospective cross-section study.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/35108260"
+        },
+        {
+            "title": "Cancer in pregnancy and the risk of adverse pregnancy and neonatal outcomes: A nationwide cohort study.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/34954890"
+        },
+        {
+            "title": "The Pregnancy-Related Mortality Impact of a Total Abortion Ban in the United States: A Research Note on Increased Deaths Due to Remaining Pregnant.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/34693444"
+        },
+        {
+            "title": "Perinatal mortality and its association with antenatal care visit, maternal tetanus toxoid immunization and partograph utilization in Ethiopia: a meta-analysis.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/34608180"
+        },
+        {
+            "title": "State Abortion Policies and Maternal Death in the United States, 2015\u20122018.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/34410825"
+        },
+        {
+            "title": "Expectant management versus multifetal pregnancy reduction in dichorionic triamniotic (DCTA) triplets: Single centre experience.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/34329945"
+        },
+        {
+            "title": "Characteristics, clinical and laboratory data and outcomes of pregnant women with confirmed SARS-CoV-2 infection admitted to Al-Zahra tertiary referral maternity center in Iran: a case series of 24 patients.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/34001013"
+        },
+        {
+            "title": "Gestational hypertension and progression towards preeclampsia in Northern Ethiopia: prospective cohort study.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/33784971"
+        },
+        {
+            "title": "Magnitude of Severe Acute Maternal Morbidity and Associated Factors Related to Abortion: A Cross-Sectional Study in Hawassa University Comprehensive Specialized Hospital, Ethiopia, 2019.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/33415141"
+        },
+        {
+            "title": "Induced Abortion and the Increased Risk of Maternal Mortality",
+            "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7350112/"
+        }
+    ],
+    "deaths caused by abortion": [
+        {
+            "title": "Sero-prevalence of syphilis and associated risk factors among pregnant women attending antenatal care at an urban-poor health centre in Kampala, Uganda: a cross-sectional study.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38854863"
+        },
+        {
+            "title": "A novel mutation of DNA2 regulates neuronal cell membrane potential and epileptogenesis.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38802339"
+        },
+        {
+            "title": "Factors Associated with Neural Tube Defects among Women Who Gave Birth at Adama Hospital Medical College, Adama, Ethiopia: A Case Control Study.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38784206"
+        },
+        {
+            "title": "Lisosomal storage disease caused by ingestion of Astragalus spp in llamas: an emergent concern.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38758424"
+        },
+        {
+            "title": "Phenotype and Clinical Outcomes\u00a0in\u00a0Desmin-Related Arrhythmogenic Cardiomyopathy.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38727660"
+        },
+        {
+            "title": "The influence of uterine fibroids on adverse outcomes in pregnant women: a meta-analysis.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38710995"
+        },
+        {
+            "title": "Seroprevalence and molecular detection of brucellosis among Pakistani women with spontaneous abortion.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38689773"
+        },
+        {
+            "title": "The obstetrical consequences of ischemic stroke in women of childbearing age.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38679658"
+        },
+        {
+            "title": "Exploring preconception health in adolescents and young adults: Identifying risk factors and interventions to prevent adverse maternal, perinatal, and child health outcomes-A scoping review.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38630699"
+        },
+        {
+            "title": "Deaths among Women of Reproductive Age: an Explorative Case Study among Abortion Seekers.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38616604"
+        },
+        {
+            "title": "Long-term reliability of the phospholamban (PLN) p.(Arg14del) risk model in predicting major ventricular arrhythmia: a landmark study.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38558121"
+        },
+        {
+            "title": "Miscarriage and stillbirth in relation to risk of cardiovascular diseases: A systematic review and meta-analysis.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38554480"
+        },
+        {
+            "title": "Research Progress on the NSP10 Protein of Porcine Reproductive and Respiratory Syndrome Virus.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38543603"
+        },
+        {
+            "title": "Unlocking the potential of fondaparinux: guideline for optimal usage and clinical suggestions (2023).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38529183"
+        },
+        {
+            "title": "Childbirth rates in women with myeloproliferative neoplasms.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38461191"
+        },
+        {
+            "title": "Positive cases of bovine genital campylobacteriosis and bovine trichomonosis in the eradication program of La Pampa, Argentina: 2008-2021.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38441747"
+        },
+        {
+            "title": "Pharmacologic interventions for the treatment of equine herpesvirus-1 in domesticated horses: A systematic review.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38380685"
+        },
+        {
+            "title": "Prevalence of human papillomavirus infection and associated factors among women attending cervical cancer screening in setting of Addis Ababa, Ethiopia.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38374354"
+        },
+        {
+            "title": "Poor obstetric outcomes in women with takayasu arteritis: a retrospective cohort study.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38363321"
+        },
+        {
+            "title": "Female reproductive histories and the risk of chronic obstructive pulmonary disease.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38350732"
+        }
+    ],
+    "maternal deaths": [
+        {
+            "title": "Burden of non-communicable diseases attributed to alcohol consumption in 2019 for the Brazilian Unified Health System.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38944900"
+        },
+        {
+            "title": "Fetomaternal Outcome of Covid-19 Positive Pregnant Patients in Bangladesh: A Comparative Study.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38944726"
+        },
+        {
+            "title": "Application of cell-free DNA fungal polymerase chain reaction for invasive fungal disease evaluation in pediatric oncology and stem cell transplant patients.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38943234"
+        },
+        {
+            "title": "Pregnancy outcomes in patients with systemic lupus erythematosus compared to a high-risk tertiary cohort and\u00a0to\u00a0standard population from the Austrian birth registry.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38943224"
+        },
+        {
+            "title": "Gestational weight gain below recommendations and adverse maternal and child health outcomes for pregnancies with overweight or obesity: a US cohort study.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38942117"
+        },
+        {
+            "title": "Comparison of maternal neonatal outcomes of normotensive and hypertensive placental abruptions: A novel approach.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38941372"
+        },
+        {
+            "title": "Prevalence and risk factors of Hepatitis C virus infection in the Upper East Region of Ghana; a community-based cross-sectional study.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38941280"
+        },
+        {
+            "title": "Hospitalizations for food-induced anaphylaxis in Spain (2016-2021): A population-based epidemiologic study.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38940759"
+        },
+        {
+            "title": "Adolescent maternal mortality at a district health services over a five year period in South Africa: A retrospective study.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38940071"
+        },
+        {
+            "title": "The readiness of malaria services and uptake of intermittent preventive treatment in pregnancy in six sub-Saharan countries.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38939971"
+        },
+        {
+            "title": "Hypertensive Disorders of Pregnancy: Innovative Management Strategies.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38938826"
+        },
+        {
+            "title": "Substance Use in Pregnancy and its Association With Cardiovascular Events.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38938361"
+        },
+        {
+            "title": "Infection route associated with invasive group A streptococcal toxic shock syndrome in maternal deaths: Nationwide analysis of maternal mortalities in Japan.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38936654"
+        },
+        {
+            "title": "Gendered anti-blackness, maternal health & chattel slavery: OB/Gyn knowledge as a determinant of death of black women.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38936105"
+        },
+        {
+            "title": "Early Antibiotic Exposure and Bronchopulmonary Dysplasia in Very Preterm Infants at Low Risk of Early-Onset Sepsis.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38935376"
+        },
+        {
+            "title": "Suicide Mortality During the Perinatal Period.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38935375"
+        },
+        {
+            "title": "COVID-19-related Fears and Practices among Postnatal Women Availing Services at a Rural Maternity Hospital in South Karnataka.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38934811"
+        },
+        {
+            "title": "The association of cognitive function and its changes with all-cause mortality among community-dwelling older adults.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38934019"
+        },
+        {
+            "title": "[Placenta accreta: a retrospective descriptive study of 46 patients treated in the Obstetrics and Gynaecology Department of the Farhat Hached University Hospital in Sousse, Tunisia].",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38933434"
+        },
+        {
+            "title": "Interpreting International Humanitarian Law to Guarantee Abortion and Other Sexual and Reproductive Health Services in Armed Conflict.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38933223"
+        }
+    ],
+    "https://pubmed.ncbi.nlm.nih.gov/18523288/": [
+        {
+            "title": "Ca(2+) permeation through C-terminal cleaved, but not full-length human Pannexin1 hemichannels, mediates cell death.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38861601"
+        },
+        {
+            "title": "[Genetics of sucrose metabolism disorders in different population groups].",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38809799"
+        },
+        {
+            "title": "Tear Protein Markers for Diabetic Retinopathy and Diabetic Macular Edema - Towards an Early Diagnosis and Better Prognosis.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38643349"
+        },
+        {
+            "title": "Tumor immunity: A brief overview of tumor\u2011infiltrating immune cells and research advances into tumor\u2011infiltrating lymphocytes in gynecological malignancies (Review).",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38476909"
+        },
+        {
+            "title": "The development of inherited cardiac conditions services: current position and future perspectives.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38400770"
+        },
+        {
+            "title": "[The influence of environmental factors on the prevalence of \u00abthrifty genotypes\u00bb as predictors of metabolic disorders].",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38198415"
+        },
+        {
+            "title": "Tacrolimus Pharmacotherapy: Infectious Complications and Toxicity in Organ Transplant Recipients; An Updated Review.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38151846"
+        },
+        {
+            "title": "Notes on\u00a0the data quality of\u00a0bibliographic records from the MEDLINE database.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/37935584"
+        },
+        {
+            "title": "Developing synthetic tools to decipher the tumor-immune interactome.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/37871202"
+        },
+        {
+            "title": "'It must be right, I saw it on TV!': An observational study of third stage birth practices in popular television programmes.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/37869445"
+        },
+        {
+            "title": "[Assessments of sleepiness in adolescents: A key tool for better intervene in mental health].",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/37862255"
+        },
+        {
+            "title": "Radon exposure and its influencing factors across 3,140 workplaces in Spain.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/37852462"
+        },
+        {
+            "title": "Managing moderate-to-severe paediatric asthma: a scoping review of the efficacy and safety of fluticasone propionate/salmeterol.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/37620110"
+        },
+        {
+            "title": "Tacrolimus and Cyclosporin Pharmacotherapy, Detection Methods, Cytochrome P450 Enzymes after Heart Transplantation.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/37496131"
+        },
+        {
+            "title": "A Snapshot on Oral and Maxillofacial Surgery Resident Scholarly Activity: Can We Do Better?",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/36965516"
+        },
+        {
+            "title": "Application of enhanced recovery after surgery in perioperative patients undergoing laparoscopic surgery for gastric cancer: A meta-analysis.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/36930125"
+        },
+        {
+            "title": "Combined disruption of T cell inflammatory regulators Regnase-1 and Roquin-1 enhances antitumor activity of engineered human T cells.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/36920923"
+        },
+        {
+            "title": "Efficacy of Deep Brain Stimulation for Camptocormia in Parkinson's Disease: A Systematic Review and Meta-Analysis.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/36722246"
+        },
+        {
+            "title": "Diffusion-weighted imaging and apparent diffusion coefficient mapping of head and neck lymph node metastasis: a systematic review.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/36530194"
+        },
+        {
+            "title": "First Report of Phytophthora inundata Associated with Decline and Death of Walnut (Juglans regia L.) in Italy.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/36515926"
+        }
+    ],
+    "Misoprostol impairs female reproductive tract innate immunity against Clostridium sordellii": [
+        {
+            "title": "Comment on \"Misoprostol impairs female reproductive tract innate immunity against Clostridium sordellii\".",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/18684913"
+        },
+        {
+            "title": "Misoprostol impairs female reproductive tract innate immunity against Clostridium sordellii.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/18523288"
+        }
+    ],
+    "abortion and maternal mortality": [
+        {
+            "title": "Women at crossroads: a qualitative study of induced abortion and violence in a Ghanaian region.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38943562"
+        },
+        {
+            "title": "The 2023 Gerard W. Ostheimer Lecture. A Contemporary Narrative Review of Maternal Mortality and Morbidity: Opportunities to Improve Peripartum Outcomes.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38917035"
+        },
+        {
+            "title": "\"We need to confirm at least from two or three\": Healthcare workers' discretion as gatekeepers in the context of the Ethiopian abortion law.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38907223"
+        },
+        {
+            "title": "Understanding maternal Ethnomedical Folklore in Central Uganda: a cross-sectional study of herbal remedies for managing Postpartum hemorrhage, inducing uterine contractions and abortion in Najjembe sub-county, Buikwe district.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38886787"
+        },
+        {
+            "title": "Obstetric outcomes of women with congenital uterine anomalies in the United States.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38866133"
+        },
+        {
+            "title": "Maternal morbidity and death associated with pregnancy loss before 28\u2009weeks in Nigeria.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38859664"
+        },
+        {
+            "title": "Maternal deaths by suicide and drug overdose in two Canadian provinces; retrospective review.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38852810"
+        },
+        {
+            "title": "Developing a comprehensive abortion prevention program for couples based on I-change model: study protocol for a mixed method research.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38849893"
+        },
+        {
+            "title": "Access to mifepristone, misoprostol, and contraceptive medicines in eight countries in the Eastern Mediterranean Region: descriptive analyses of country-level assessments.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38835050"
+        },
+        {
+            "title": "Evolving narratives on signal functions for monitoring maternal and newborn health services: A meta-narrative inspired review.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38820693"
+        },
+        {
+            "title": "Acute Kidney Injury in Pregnancy: A Prospective Study.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38800254"
+        },
+        {
+            "title": "Trends in the Management of Miscarriages with the Implementation of the Volunteer Obstetrician Scheme in Selected Primary Health Care Centres in Maiduguri, Northeastern Nigeria.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38788122"
+        },
+        {
+            "title": "Factors influencing maternal death in Cambodia, Laos, Myanmar, and Vietnam countries: A systematic review.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38758946"
+        },
+        {
+            "title": "ACNM's Commentary on the Midwifery Workforce in the US.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38758262"
+        },
+        {
+            "title": "Clients' expectations and experiences with providers of menstrual regulation: a qualitative study in Bangladesh.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38755575"
+        },
+        {
+            "title": "Diagnostic utility of clinicodemographic, biochemical and metabolite variables to identify viable pregnancies in a symptomatic cohort during early gestation.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38750192"
+        },
+        {
+            "title": "Equity and Justice in Family Medicine Clinical Care and Teaching Must Incorporate a Reproductive Justice Framework.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38748631"
+        },
+        {
+            "title": "Factors associated with pregnancy termination in six sub-Saharan African countries.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38722942"
+        },
+        {
+            "title": "Induced abortion in Africa: A systematic review and meta-analysis.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38713662"
+        },
+        {
+            "title": "Rupture of non-communicating rudimentary horn at 35\u00a0weeks ending with a live birth: A case report.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38701612"
+        }
+    ]
+}
