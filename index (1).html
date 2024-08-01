@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seto AI</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #0a0a0a;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+        }
+        #chat-container {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            padding: 5px;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            background-color: #0a0a0a;
+            margin: 20px;
+            overflow-y: scroll; /* Changed from auto to scroll */
+            max-height: calc(100vh - 180px); /* Adjusted to ensure scrollbar appears */
+        }
+        .message {
+            padding: 10px;
+            margin-bottom: 10px;
+            border-radius: 10px;
+            word-wrap: break-word;
+        }
+        .user-message {
+            background-color: #93ff8a;
+            align-self: flex-end;
+        }
+        .ai-message {
+            background-color: #5db1f5;
+            align-self: flex-start;
+        }
+        .ai-message a, .user-message a {
+            color: white;
+       }
+    
+        #input-container {
+            display: flex;
+            background-color: #0a0a0a;
+            margin: 20px;
+            border-top: 0px solid #ccc;
+            border-radius: 10px;
+        }
+        #user-input {
+            flex: 1;
+            padding: 5px;
+            border: 1px solid #2e2b2b;
+            border-radius: 10px;
+            outline: none;
+        }
+        #send-button {
+            padding: 10px 20px;
+            margin-left: 10px;
+            border: none;
+            border-radius: 10px;
+            background-color: #007bff;
+            color: #fff;
+            cursor: pointer;
+        }
+        #send-button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+    <link rel="shortcut icon" type="image/png" href="/setoai/favicon.png"/>
+</head>
+<body>
+    <div id="chat-container"></div>
+    <div id="input-container">
+        <input type="text" id="user-input" placeholder="Type your message here...">
+        <button id="send-button">Send</button>
+    </div>
+    <script>
+        const chatContainer = document.getElementById('chat-container');
+        const userInput = document.getElementById('user-input');
+        const sendButton = document.getElementById('send-button');
+
+        function appendMessage(content, className) {
+            const messageElement = document.createElement('div');
+            messageElement.innerHTML = content;
+            messageElement.className = `message ${className}`;
+            chatContainer.appendChild(messageElement);
+            chatContainer.scrollTop = chatContainer.scrollHeight;
+        }
+
+        function formatSearchResults(results) {
+            return results.map(result => result.title ? `<a href="${result.link}" target="_blank">${result.title}</a>` : JSON.stringify(result)).join('<br>');
+        }
+
+        function sendMessage() {
+            const message = userInput.value.trim();
+            if (message === '') return;
+
+            appendMessage(`User: ${message}`, 'user-message');
+            userInput.value = '';
+            
+            fetch('http://setoai.duckdns.org:5000/chat', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ message }),
+            })
+            .then(response => response.json())
+            .then(data => {
+                let content = '';
+                if (data.type === 'search') {
+                    content = formatSearchResults(data.content);
+                } else {
+                    content = data.content || 'An error occurred while processing the response.';
+                }
+                appendMessage(`Seto AI: ${content}`, 'ai-message');
+            })
+            .catch(error => {
+                appendMessage(`Seto AI: Error: ${error.message}`, 'ai-message');
+            });
+        }
+
+        sendButton.addEventListener('click', sendMessage);
+        userInput.addEventListener('keydown', event => {
+            if (event.key === 'Enter') {
+                sendMessage();
+            }
+        });
+    </script>
+</body>
+</html>
